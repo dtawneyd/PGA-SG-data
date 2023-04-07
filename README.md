@@ -8,4 +8,4 @@ After downloading, I uploaded the raw CSV file into Google Colab so that I could
 
 In my code, I kept my function for filling the null values with the mean as a comment on the off chance anyone wanted to try something for themselves. I also commented out a line of code that I used to save the cleaned data to a CSV file that I could upload to Tableau.
 
-Once the data was clean, I did some visualization within Python using Plotly so that I could get some more practice there. My main focus was getting this data cleaned so that I could attempt a dashboard using Tableau. The dashboard is public on my account (https://public.tableau.com/app/profile/derek.tawney).
+Once the data was clean, I did some visualization within Python using Plotly so that I could get some more practice there. My main focus was getting this data cleaned so that I could attempt a dashboard using Tableau. The dashboard is public on my account (https://public.tableau.com/app/profile/derek.tawney/viz/PGASGData/Dashboard1).
